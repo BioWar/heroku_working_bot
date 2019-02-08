@@ -1,1 +1,1 @@
-bot: python inlinebot.py
+web: python inlinebot.py
